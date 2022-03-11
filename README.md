@@ -1,8 +1,8 @@
 ## ABOUT TOOL :
 
-BlackInsta is a python based script which is officially made for phish*ng instagram accounts with portforwarding. This tool works on both rooted Android device and Non-rooted Android device.
+BlackInsta is a python based script which is officially made for phish*ng instagram accounts with portforwarding. This tool works on both rooted Android 
 
-![](https://github.com/blackinsta/)
+![](name-of-giphy.gif)
 
 ## AVAILABLE ON :
 
@@ -39,5 +39,5 @@ BlackInsta is a python based script which is officially made for phish*ng instag
 
 
 ## Special Shout Out To My Partners 👏 :
-* <a href="https://wa.me/+27847611848/">@SLADE👏</a>
-* <a href="https://wa.me/+27847611848/">@SLADE👏</a> 
+* <a href="https://wa.me/+27847611848">@JUNIA👏</a>
+* <a href="https://wa.me/+27847611848">@SLADE👏</a> 
