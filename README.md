@@ -32,6 +32,10 @@ BlackInsta is a python based script which is officially made for phish*ng instag
 * ` pip install -r requirements.txt `
 * ` python setup.py ` 
 
+## TOTAL VISITORS ?
+![Visitor Count](https://profile-counter.glitch.me/Cold-Breazy/count.svg)
+
+
 ## Facing Any Problem ?
 ### Find Me On :
 
