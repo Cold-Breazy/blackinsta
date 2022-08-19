@@ -15,6 +15,7 @@ BlackInsta is a python based script which is officially made for phish*ng instag
 ### REQUIREMENTS :
 * internet 100 MB
 * php
+* Tor
 * storage 70 MB
 
 ## FEATURES :
@@ -29,7 +30,9 @@ BlackInsta is a python based script which is officially made for phish*ng instag
 * ` cd blackinsta `
 * ` tar -xvf app.tar.gz `
 * ` tar -xvf myapp.tar.gz `
+* ` apt install tor `
 * ` pip install -r requirements.txt `
+* ` pip3 install instagram-py `
 * ` python setup.py ` 
 
 ## TOTAL VISITORS ?
